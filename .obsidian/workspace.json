@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All Pages/🚀 Getting started with Clobsidian.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "All Pages/🚀 Getting started with Clobsidian.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All Pages/🚀 Getting started with Clobsidian.md"
+                "file": "README.md"
               }
             }
           },
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "All Pages/🚀 Getting started with Clobsidian.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,8 +194,8 @@
   },
   "active": "80f07ec957ac0cf1",
   "lastOpenFiles": [
-    "All Pages/backstory on how I've moved over from Clover to Obsidian.md",
     "All Pages/🚀 Getting started with Clobsidian.md",
+    "All Pages/backstory on how I've moved over from Clover to Obsidian.md",
     "All Pages/calendar plugin behavior is a bit different from native Clover calendar.md",
     "All Pages/assign anything on any pages to have it show up on your daily notes.md",
     "All Pages/create or jump to your daily notes.md",

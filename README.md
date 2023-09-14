@@ -14,14 +14,13 @@ Happy to have you here. Feel free to jump into any sections using the TOC (those
 > 3. **Use Responsibly:** Feel free to use and modify this vault, but do so at your own discretion.
 > 	 
 
-
 ## Introduction
 
 Here's a [[backstory on how I've moved over from Clover to Obsidian]]: 
 
 I didn't know how to name this thing so I'll call this vault template Clobsidian (Clover + Obsidian) from this point on. 😜
 
-### Yeah Yeah, but I Heard Notion / Remnote / Roam / Capacities / Mem.ai / Loqseq / Reflect / Acreom / Superlist / Cron / Etc. were Great Alternatives. Why Aren't You Recommending Them Instead?
+### Yeah Yeah, but I Heard Notion / Remnote / Roam / Capacities / Mem.ai / Loqseq / Reflect / Acreom / Superlist / Cron / Etc. Were Great Alternatives. Why Aren't You Recommending Them Instead?
 
 These [[alternatives apps have frustrated me in one way or another]]. You might also find that there are some compromises you have to make when switching between different apps and workflow
 
@@ -42,14 +41,26 @@ These [[alternatives apps have frustrated me in one way or another]]. You might 
 
 ---
 
-# Because I'm daily driving this preset alongside my own vault. I'll keep improving and keep a look out for any new plugins/preset/query that might help us get closer to our goals of fully transitioning from Clover.
+## Will there Be More updates/improvements/bug Fixes for Clobsidian?
 
-Keep an eye on any updates on my [Github repository](https://github.com/smokebacon/Clobsidian/tree/main)
+I work full-time as a product designer (with pathetic coding skills, as you can see on my Dataview plugin queries 😂), and putting together this sample vault has taken me over 90+ hours across days, nights, and those drowsy weekends.
 
-Thanks for reading and trying this vault out.
+As I use this preset daily, just like you, on our journey, I remain committed to making it even better each day. I'm constantly on the lookout for new plugins, presets, and queries that could bring us even closer to realizing our dream of finally moving on from Clover. So expect this vault to be improved over time ⌛
 
-I work full-time and this vault takes ~80 hours to put together on weekends alone.
+**Thank you for giving this a try.**
 
-If this made your day of moving away from Clover a tad bit easier. Feel free to [leave me a tip](https://ko-fi.com/5minbacon) and made my day 😁
+If I've made your transition from Clover a bit easier or if you have any questions, please feel free to reach out on [GitHub projects](https://github.com/smokebacon/Clobsidian) or shoot me an email at [3jfwe7ty@duck.com](mailto:3jfwe7ty@duck.com)
 
-@5min_bacon
+```button
+name ❤️ Tip me on Ko-fi
+type link
+action https://ko-fi.com/5minbacon
+color red
+```
+
+Thanks again for all your support! 😁
+
+---
+
+**Clobsidian v.01**  
+Made with ❤️ by @5min_bacon
