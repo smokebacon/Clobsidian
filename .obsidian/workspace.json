@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All Pages/_README.md",
+                "file": "All Pages/🚀 Getting started with Clobsidian.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "All Pages/_README.md",
+                "file": "All Pages/🚀 Getting started with Clobsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All Pages/_README.md"
+                "file": "All Pages/🚀 Getting started with Clobsidian.md"
               }
             }
           },
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "All Pages/_README.md",
+                "file": "All Pages/🚀 Getting started with Clobsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,19 +194,20 @@
   },
   "active": "80f07ec957ac0cf1",
   "lastOpenFiles": [
-    "All Pages/calendar plugin behavior is a bit different from native Clover calendar.md",
     "All Pages/backstory on how I've moved over from Clover to Obsidian.md",
-    "All Pages/alternatives apps have frustrated me in one way or another.md",
-    "All Pages/how to migrate your clover daily notes.md",
-    "All Pages/surface feature cannot be replaced by Obsidian.md",
-    "All Pages/list of community plugins used to simulate clover app functionality.md",
-    "All Pages/create or jump to your daily notes.md",
+    "All Pages/🚀 Getting started with Clobsidian.md",
+    "All Pages/calendar plugin behavior is a bit different from native Clover calendar.md",
     "All Pages/assign anything on any pages to have it show up on your daily notes.md",
+    "All Pages/create or jump to your daily notes.md",
+    "All Pages/list of community plugins used to simulate clover app functionality.md",
+    "All Pages/how to migrate your clover daily notes.md",
+    "All Pages/alternatives apps have frustrated me in one way or another.md",
+    "README.md",
+    "All Pages/surface feature cannot be replaced by Obsidian.md",
     "_Attachments/Task-edit-using-command-line.png",
     "Daily Notes/2023-09-09.md",
     "Tasks.md",
     "Inbox.md",
-    "All Pages/_README.md",
     "_Attachments/mem-app-task-view-outside.png",
     "_Attachments/Mem-app-task-view-inside.png",
     "All Pages/Test.md",
@@ -230,7 +231,6 @@
     "All Pages",
     "Invalid date.md",
     "Page Tree/Test task.md",
-    "Page Tree/create or jump to your daily notes.md",
     "Daily Notes",
     "Page Tree/Page Tree",
     "Untitled.canvas",

@@ -50,13 +50,6 @@ Thanks for reading and trying this vault out.
 
 I work full-time and this vault takes ~80 hours to put together on weekends alone.
 
-If this made your day of moving away from Clover a tad bit easier. Feel free to leave me a tip and made my day 😁
-
-```button
-name ❤️ Tip me on Ko-fi
-type link
-action https://ko-fi.com/5minbacon
-color red
-```
+If this made your day of moving away from Clover a tad bit easier. Feel free to [leave me a tip](https://ko-fi.com/5minbacon) and made my day 😁
 
 @5min_bacon
