@@ -20,11 +20,11 @@ Here's a [[backstory on how I've moved over from Clover to Obsidian]]:
 
 I didn't know how to name this thing so I'll call this vault template Clobsidian (Clover + Obsidian) from this point on. 😜
 
-### Yeah Yeah, but I Heard Notion / Remnote / Roam / Capacities / Mem.ai / Loqseq / Reflect / Acreom / Superlist / Cron / Etc. Were Great Alternatives. Why Aren't You Recommending Them Instead?
+### 💬 Yeah Yeah, but I Heard Notion / Remnote / Roam / Capacities / Mem.ai / Loqseq / Reflect / Acreom / Superlist / Cron / Etc. Were Great Alternatives. Why Aren't You Recommending Them Instead?
 
 These [[alternatives apps have frustrated me in one way or another]]. You might also find that there are some compromises you have to make when switching between different apps and workflow
 
-### But Really, why Obsidian?
+### 💬 But Really, why Obsidian?
 
 - Open source with a **massive community** behind it
 - Use Markdown format
