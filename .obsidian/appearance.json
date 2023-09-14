@@ -1,0 +1,15 @@
+{
+  "accentColor": "#2ac02d",
+  "theme": "system",
+  "cssTheme": "Minimal",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "translucency": false,
+  "enabledCssSnippets": [
+    "task-plugin-styling"
+  ],
+  "nativeMenus": false,
+  "baseFontSizeAction": true,
+  "baseFontSize": 16,
+  "showViewHeader": true
+}

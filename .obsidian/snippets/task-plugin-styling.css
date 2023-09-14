@@ -1,0 +1,125 @@
+/* I like tags to appear in gray so they won't grab too much attention */
+.tasks-list-text a.tag {
+    color: gray;
+}
+
+/* Set internal links to gray too instead of Obsidian's default */
+.tasks-backlink a.internal-link {
+    color: gray;
+}
+
+/* Paint the recurrence rule in gray so it will be less distracting */
+.task-recurring {
+        color: gray;
+}
+
+/* List indentation values that seem to work well for me */
+ul.contains-task-list.plugin-tasks-query-result {
+    padding: 0 10px;
+}
+
+/* This seems to be needed for the task description to word-wrap correctly if they're too long */
+span.tasks-list-text {
+        width: auto;
+}
+
+/* Represent tasks' priority with colorful round checkboxes instead of the priority emoticons */
+.task-list-item[data-task-priority="high"] input[type=checkbox] {
+        box-shadow: 0px 0px 2px 2px var(--color-red);
+        border-color: var(--color-red);
+}
+.task-list-item[data-task-priority="low"] input[type=checkbox] {
+        box-shadow: 0px 0px 2px 2px var(--color-blue);
+        border-color: var(--color-blue);
+}
+.task-list-item[data-task-priority="medium"] input[type=checkbox] {
+        box-shadow: 0px 0px 2px 2px var(--color-orange);
+        border-color: orange;
+}
+/* This part removes the regular priority emoticon */
+span.task-priority {
+        display: none;
+}
+
+/* A special color (bluish) for the 'due' component if it's for today */
+.task-due[data-task-due="today"] span {
+        background: #d2e8fa;
+        border-radius: 10px;
+        padding: 2px 8px;
+}
+/* A special color (reddish) for overdue due dates */
+.task-list-item[data-task=""] .task-due[data-task-due^="past-"] span {
+        background: #ffbfcc;
+        border-radius: 10px;
+        padding: 2px 8px;
+}
+
+/* Make checkboxes a circle instead of a square */
+ul > li.plugin-tasks-list-item .task-list-item-checkbox {
+     margin-inline-start: 0;
+         margin: 5px 2px;
+         border-radius: 50%;
+}
+
+/* The following section organizes the task components in a grid, so the description will be on the first row
+ * of each item and most components will be in the 2nd row. */
+ul > li.plugin-tasks-list-item {
+    grid-template-columns: 25px auto;
+    display: grid;
+    align-items: top;
+}
+span.task-description {
+    grid-row: 1;
+        grid-column: 1/10;
+}
+span.tasks-backlink {
+    grid-row: 2;
+    grid-column: 2;
+        font-size: small;
+}
+span.task-recurring {
+    grid-row: 2;
+        font-size: small;
+        width: max-content;
+}
+span.task-due {
+    grid-row: 2;
+        font-size: small;
+        width: max-content;
+}
+span.task-done {
+    grid-row: 2;
+        font-size: small;
+        width: max-content;
+}
+.tasks-list-text {
+    position: relative;
+    display: inline-grid;
+        width: max-content;
+        grid-column-gap: 10px;
+}
+span.task-extras {
+    grid-row: 2;
+    grid-column: 2;
+        font-size: small;
+}
+li.task-list-item ul.has-list-bullet {
+        grid-row: 3;
+        grid-column: 1/10;
+}
+
+.task-description span:has(.tag[data-tag-name="#t/strategic"]) {
+        background: #fce3e8;
+        border-radius: 10px;
+        padding: 2px 8px;
+}
+
+/* Tag colors */
+a.tag[data-tag-name="#t/incall"] {
+    box-shadow: 0 0 5px green;
+        margin: 2px;
+}
+a.tag[data-tag-name="#t/evening"] {
+    box-shadow: 0 0 5px cornflowerblue;
+        margin: 2px;
+}

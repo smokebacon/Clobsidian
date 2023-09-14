@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "Work",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "Study",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "Resource",
+      "color": {
+        "a": 1,
+        "rgb": 10837206
+      }
+    },
+    {
+      "query": "Note",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.26059977213542,
+  "lineSizeMultiplier": 0.97987060546875,
+  "collapse-forces": false,
+  "centerStrength": 0.3514404296875,
+  "repelStrength": 10.3621419270833,
+  "linkStrength": 0.768107096354167,
+  "linkDistance": 259,
+  "scale": 0.3810118430905316,
+  "close": true
+}

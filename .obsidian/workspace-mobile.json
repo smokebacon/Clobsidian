@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "756e3ebe8ed2a6c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "6938ca92d45a10cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5251988c9060021a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b9b5d81c0e7de211",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0db140e85f5d8f62",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "c779e51050b8a876",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "448381242e9e6a94",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "b2fb542aa7cfa167",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "9612d7ede5968f24",
+        "type": "leaf",
+        "state": {
+          "type": "tagfolder-view",
+          "state": {}
+        }
+      },
+      {
+        "id": "70f3df74eb20cf51",
+        "type": "leaf",
+        "state": {
+          "type": "mk-file-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "be34b0404547b56c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "64c4a43ab1e4e120",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": true,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "48460f645d73b128",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "91d612919af3700c",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      },
+      {
+        "id": "b41e62279185fc34",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "8779887c0c04858d",
+        "type": "leaf",
+        "state": {
+          "type": "reminder-list",
+          "state": {}
+        }
+      },
+      {
+        "id": "fce0af42fa2844a8",
+        "type": "leaf",
+        "state": {
+          "type": "online.larslockefeer.obsidian-plugin-todo",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-trash-explorer:Open trash explorer": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-omnivore:Omnivore": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "5251988c9060021a",
+  "lastOpenFiles": [
+    "_Attachments/IMG_8914.jpeg",
+    "Unsorted/the scope of tasks a designops do.md",
+    "Unsorted/the type of task designops can do.md",
+    "Omnivore/How (not) to get people to download your app 🫣.md",
+    "Omnivore/What Folder Structure Should You Use in Your Zettelkasten-.md",
+    "Unsorted/badges on SSR card is not always reflect in the price of the property.md",
+    "Unsorted/designops.md",
+    "Unsorted/use ChatGPT to process and group big chunks of data or texts.md",
+    "Unsorted/responsive card component and edge-to-edge expansion behaviour.md",
+    "Unsorted/divergent thinking in design review meeting.md",
+    "Unsorted/help design teams work more efficiently and effectively.md",
+    "Unsorted/improving design team workflow.md",
+    "Unsorted/ADS.md",
+    "Unsorted/design review process suggestions.md",
+    "Unsorted/aim to avoid text truncations for a11y.md",
+    "Unsorted/design review process feedback.md",
+    "Unsorted/sync feedback back to the group if you follow any suggestions.md",
+    "Daily Notes/2023-09-04.md",
+    "Daily Notes/2023-09-01.md",
+    "Unsorted/probabilistic forecasting is an alternative to story points grooming in scrum.md",
+    "Daily Notes/2023-08-30.md",
+    "Unsorted/Test dataview query.md",
+    "All tasks.md",
+    "Unsorted/means to acquire and identify process gap and pain points for each teams.md",
+    "Daily Notes/2023-08-31.md",
+    "_Attachments/Pasted image 20230831201854.png",
+    "Daily Notes/2023-08-29.md",
+    "Daily Notes/context.mdb",
+    "Daily Notes",
+    "Resource",
+    "Study (Areas)",
+    "Work (Projects)/Research/🔍 Agoda User Insights",
+    "Work (Projects)/Research",
+    "Work (Projects)",
+    "Context/#AirBnB.mdb",
+    "Context/spacesLastSync.log",
+    "Context/#Agoda.mdb",
+    "_Attachments/image 2.png",
+    "_Attachments/ad64f780-81dd-4918-b42f-3382af0e234f.png",
+    "_Attachments/image 1.png",
+    "_Attachments/Customer segments.png",
+    "_Attachments/Pasted image 20230826235545.png",
+    "_Attachments/Pasted image 20230826233916.png",
+    "_Attachments/Pasted image 20230827010034.png",
+    "testing canvas functionality.canvas",
+    "_Attachments/Pasted image 20230824133640.png",
+    "_Attachments/Pasted image 20230820142725.png"
+  ]
+}

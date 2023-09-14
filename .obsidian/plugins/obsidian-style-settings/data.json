@@ -1,0 +1,21 @@
+{
+  "ul-theme-settings@@ul-color-accent": "ul-green",
+  "ul-theme-settings@@ul-theme-light": "ul-light",
+  "ul-theme-settings@@ul-list-distinct": false,
+  "ul-theme-settings@@font-text-theme": "Aspekta",
+  "ul-theme-settings@@ul-radius-canvas": "0",
+  "minimal-advanced@@styled-scrollbars": true,
+  "minimal-advanced@@font-ui-smaller": 12,
+  "floating-toc-styles@@enable-bar-icon": false,
+  "floating-toc-styles@@enable-bar-heading-text": true,
+  "floating-toc-styles@@enable-background-blur-dept": false,
+  "floating-toc-styles@@enable-heading-nowrap": true,
+  "floating-toc-styles@@floating-toc-remove-heading-indicator": true,
+  "floating-toc-styles@@toggle-floating-toc-header-color": false,
+  "floating-toc-styles@@enable-outline-style": "default-outline-style",
+  "minimal-style@@zoom-off": true,
+  "minimal-style@@image-blend-light": true,
+  "minimal-style@@image-muted": 0.7,
+  "floating-toc-styles@@focus-heading": 0.9,
+  "floating-toc-styles@@floating-toc-response-time": 0.3
+}
