@@ -51,12 +51,15 @@ As I use this preset daily, just like you, on our journey, I remain committed to
 
 If I've made your transition from Clover a bit easier or if you have any questions, please feel free to reach out on [GitHub projects](https://github.com/smokebacon/Clobsidian) or shoot me an email at [3jfwe7ty@duck.com](mailto:3jfwe7ty@duck.com)
 
-```button
-name ❤️ Tip me on Ko-fi
-type link
-action https://ko-fi.com/5minbacon
-color red
-```
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+	kofiWidgetOverlay.draw('5minbacon', {
+		'type': 'floating-chat',
+		'floating-chat.donateButton.text': 'Tip Me',
+		'floating-chat.donateButton.background-color': '#00b9fe',
+		'floating-chat.donateButton.text-color': '#fff'
+	});
+</script>
 
 Thanks again for all your support! 😁
 
