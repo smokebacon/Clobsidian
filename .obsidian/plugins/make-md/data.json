@@ -46,17 +46,15 @@
     "All Folders": [],
     "Pinned menu": [],
     "All": [],
-    "Pinned": [
-      "Template"
-    ]
+    "Pinned": []
   },
   "expandedSpaces": [
-    null,
     null,
     "Pinned menu",
     "Pinned",
     "All folders",
-    "All Pages"
+    "All Pages",
+    null
   ],
   "expandFolderOnClick": false,
   "openFolders": [],

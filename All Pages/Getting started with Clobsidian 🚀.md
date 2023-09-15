@@ -38,7 +38,7 @@ These [[alternatives apps have frustrated me in one way or another]]. You might 
 
 I'll keep updating this section for any common issues or questions you may have asked.
 
-In the meantime, feel free to drop any comments you have on Cloverapp Slack channel or my email below 👇
+In the meantime, feel free to drop any comments you have on the Cloverapp Slack channel or my email below 👇
 
 ---
 
@@ -48,7 +48,9 @@ I work full-time as a product designer (with pathetic coding skills, as you can 
 
 As I use this preset daily, just like you, on our journey, I remain committed to making it even better each day. I'm constantly on the lookout for new plugins, presets, and queries that could bring us even closer to realizing our dream of finally moving on from Clover. So expect this vault to be improved over time ⌛
 
-**Thank you for giving this a try.**
+---
+
+## Thank You for Giving This a Try
 
 If I've made your transition from Clover a bit easier or if you have any questions, please feel free to reach out on [GitHub projects](https://github.com/smokebacon/Clobsidian) or shoot me an email at [3jfwe7ty@duck.com](mailto:3jfwe7ty@duck.com)
 
@@ -63,5 +65,6 @@ Thanks again for all your support! 😁
 
 ---
 
-**Clobsidian v.01**  
-Made with ❤️ by @5min_bacon
+### Clobsidian V.01
+
+#### Made with ❤️ by @5min_bacon
