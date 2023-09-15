@@ -16,7 +16,7 @@ Happy to have you here. Feel free to jump into any sections using the TOC (those
 
 ---
 
-## [Download v0.0.1 here](https://github.com/smokebacon/Clobsidian/archive/refs/tags/v.0.0.2.zip)
+## [Download here](https://github.com/smokebacon/Clobsidian/archive/refs/tags/v.0.0.2.zip)
 
 
 ## HOW TO INSTALL Clobsidian
