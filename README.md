@@ -19,9 +19,16 @@ Happy to have you here. Feel free to jump into any sections using the TOC (those
 ## [Download v0.0.1 here](https://github.com/smokebacon/Clobsidian/archive/refs/tags/v.0.0.1.zip)
 
 
-## Introduction
+## HOW TO INSTALL Clobsidian
 
-Here's a [[backstory on how I've moved over from Clover to Obsidian]]: 
+1. Download this repo (clicking the download link above)
+2. Unzip, rename to your preferred vault name, and open the entire folder with Obsidian
+3. When the prompt shows up about 3rd party plugins, click `Trust the developers`
+4. Use Windows Explorer or MacOS Finder to Manually copy-paste your clover .md file into this vault folder
+5. Done!
+
+
+## What's up with this weird name?
 
 I didn't know how to name this thing so I'll call this vault template Clobsidian (Clover + Obsidian) from this point on. 😜
 
