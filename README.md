@@ -21,7 +21,7 @@ Happy to have you here. Feel free to jump into any sections using the TOC (those
 
 ## HOW TO INSTALL Clobsidian
 
-1. Download this repo (clicking the download link above)
+1. [Download this repo](https://github.com/smokebacon/Clobsidian/archive/refs/tags/v.0.0.1.zip)
 2. Unzip, rename to your preferred vault name, and open the entire folder with Obsidian
 3. When the prompt shows up about 3rd party plugins, click `Trust the developers`
 4. Use Windows Explorer or MacOS Finder to Manually copy-paste your clover .md file into this vault folder
