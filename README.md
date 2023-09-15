@@ -61,6 +61,16 @@ If I've made your transition from Clover a bit easier or if you have any questio
 	});
 </script>
 
+```
+import KofiButton from "kofi-button"
+
+export const StyledKofiButton = () => {
+  return (
+    <KofiButton color="#0a9396" title="Donate" kofiID="5minbacon" />
+  )
+}
+```
+
 Thanks again for all your support! 😁
 
 ---
