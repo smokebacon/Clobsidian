@@ -1,8 +1,9 @@
 ---
-sticker: lucide//list
+sticker: lucide//list-checks
 ---
 
-# ⌛ Pending / Scheduled Tasks
+
+## ⌛ Pending / Scheduled Tasks
 
 ```dataview
 Task
@@ -11,7 +12,8 @@ WHERE !completed
 GROUP BY file.link
 ```
 
-# ✅ Completed tasks only
+## ✅ Completed Tasks only
+
 ```dataview
 Task
 FROM "/"

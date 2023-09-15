@@ -45,19 +45,24 @@
     ],
     "All Folders": [],
     "Pinned menu": [],
-    "All": []
+    "All": [],
+    "Pinned": [
+      "Template"
+    ]
   },
   "expandedSpaces": [
     null,
+    null,
     "Pinned menu",
-    "All Pages",
-    null
+    "Pinned",
+    "All folders",
+    "All Pages"
   ],
   "expandFolderOnClick": false,
   "openFolders": [],
   "fileIcons": [],
   "cachedSpaces": [
-    "Pinned menu",
+    "Pinned",
     "All Pages"
   ],
   "menuTriggerChar": "/",
@@ -85,7 +90,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1694704089826,
+  "spacesAutoBackupLast": 1694794766951,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
