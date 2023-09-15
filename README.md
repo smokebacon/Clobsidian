@@ -55,7 +55,7 @@ As I use this preset daily, just like you, on our journey, I remain committed to
 
 **Thank you for giving this a try.**
 
-If I've made your transition from Clover a bit easier or if you have any questions, please feel free to reach out on [GitHub projects](https://github.com/smokebacon/Clobsidian) or shoot me an email at [3jfwe7ty@duck.com](mailto:3jfwe7ty@duck.com)
+If I've made your transition from Clover a bit easier or if you have any questions, please feel free to file me [an issue](https://github.com/smokebacon/Clobsidian/issues) or shoot me an email at [3jfwe7ty@duck.com](mailto:3jfwe7ty@duck.com)
 
 <a href='https://ko-fi.com/5minbacon' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 
