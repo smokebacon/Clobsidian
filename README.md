@@ -34,7 +34,9 @@ I didn't know how to name this thing so I'll call this vault template Clobsidian
 
 ### 💬 Yeah Yeah, but I Heard Notion / Remnote / Roam / Capacities / Mem.ai / Loqseq / Reflect / Acreom / Superlist / Cron / Etc. Were Great Alternatives. Why Aren't You Recommending Them Instead?
 
+
 These alternative apps have frustrated me in one way or another. You might also find that there are some compromises you have to make when switching between different apps and workflow
+
 ---
 
 ## FAQs (WIP)
