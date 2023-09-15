@@ -2,7 +2,7 @@
 
 Happy to have you here. Feel free to jump into any sections using the TOC (those little bars sticking out of the right side 😀 )
 
-> [!WARNING]+ Disclaimer  
+> **Disclaimer**  
 > This Obsidian example vault is here to help you learn and explore how you can use it according to your needs.
 > 
 > Here are some key points to keep in mind:
@@ -13,6 +13,11 @@ Happy to have you here. Feel free to jump into any sections using the TOC (those
 > 	 
 > 3. **Use Responsibly:** Feel free to use and modify this vault, but do so at your own discretion.
 > 	 
+
+---
+
+## [Download v0.0.1 here](https://github.com/smokebacon/Clobsidian/archive/refs/tags/v.0.0.1.zip)
+
 
 ## Introduction
 
@@ -37,7 +42,13 @@ These [[alternatives apps have frustrated me in one way or another]]. You might 
 		- Official [Obsidian Sync](https://obsidian.md/sync) and pay $8/month
 		- Or sync using iCloud, Onedrive, Gdrive, Github, dropbox, etc.
 
+---
 
+## FAQs (WIP)
+
+I'll keep updating this section for any common issues or questions you may have asked.
+
+In the meantime, feel free to drop any comments you have on the Cloverapp Slack channel or my email below 👇
 
 ---
 
