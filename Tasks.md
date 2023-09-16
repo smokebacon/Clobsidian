@@ -1,7 +1,7 @@
 ---
 sticker: lucide//list-checks
 ---
-
+All your tasks divided by categories
 
 ## ⌛ Pending / Scheduled Tasks
 

@@ -1,6 +1,6 @@
 
 
-- [Loqseq](https://logseq.com/) → As of 14 Aug 2023
+- [Loqseq](https://logseq.com/)
 	- 90/10/0 → Note/Todo/calendar
 	- ✅ Powerful outliner, zoom into any object and topic. You'll get full context wherever your notes are. Everything you do is an outline.
 	- ❌ Checklist needs to be wrapped in specific keywords
@@ -9,7 +9,7 @@
 	- 🤔 Complex controls for some simple usability
 
 
-- [Mem.ai](https://mem.ai/)  → As of 10 Mar 2023
+- [Mem.ai](https://mem.ai/) 
 	- 50/25/25 → Note/Todo/Calendar
 	- 🤔 Aims to be your single base of operations for your day-to-day
 	- ❌ Dashboard is more of a journal style. (e.g. Tag inside a document won’t get highlighted in a note and so on)

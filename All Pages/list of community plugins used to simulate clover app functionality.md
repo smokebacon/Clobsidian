@@ -1,8 +1,8 @@
 Here is the list of the plugin used to simulate #cloverapp feature:
 
 - [Dataview](obsidian://show-plugin?id=table-editor-obsidian) 
-	- This is mainly to create a 'database' of notes within the [[Obsidian's vault]] and allow us to query and quickly jump to any tasks like Clover's tasks rollover feature.
-	- Some pinned menus also utilized a table format to display information based on what we could've had on Clover as well 
+	- This is mainly to create a 'database' of notes within the [[Obsidian's vault]] and allow us to query and quickly jump to any tasks like Clover's tasks rollover feature. Here's how to  [[assign anything on any page to have it show up on your daily notes]]
+	- Some pinned menus also utilized a table format to display information based on what we could've had on Clover as well
 
 - [Outliner](obsidian://show-plugin?id=obsidian-outliner)
 	- Enhance the functionality of Obsidian's outlining-related hotkey and indentation behavior (tab once and move all children along with parent, etc.)
@@ -18,17 +18,21 @@ Here is the list of the plugin used to simulate #cloverapp feature:
 	- A calendar view within a window pane (a daily note will be created on the date once clicked)
 
 - [Tasks](obsidian://show-plugin?id=obsidian-tasks-plugin) 
-	- enable [[cancelled status in checkboxes]]
+	- enable [[canceled status in checkboxes]]
 	- [[auto-assign scheduled date in todo-list created in daily notes]]
 	- beautify in-line metadata like `due::` into something more scannable like ⌛ emoji (and have dataview recognize those signifiers)
 
 - [Natural language date](obsidian://show-plugin?id=nldates-obsidian)
 	- To enable @ style date assign (with relative time eg. Today, Yesterday)
-	- Use to [[assign anything on any pages to have it show up on your daily notes]]
+	- Use to [[assign anything on any page to have it show up on your daily notes]]
 
 - [Highlighter](obsidian://show-plugin?id=highlightr-plugin)
 	- Simulate highlighting color customization using right click or hotkey (albeit harder to controls)
 
+- [Make.md](obsidian://show-plugin?id=make-md)
+	- Custom sort file pane to simulate what we have on clover sidebar
+	- In-line text format editor ![[In-line-text-format-editor.png]]
+	- 
 
 
 ---

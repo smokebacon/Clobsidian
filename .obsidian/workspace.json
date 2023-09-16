@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2ae1364413c1f41c",
+        "id": "a5b1ba5467269a0d",
         "type": "tabs",
         "children": [
           {
-            "id": "7ec4c8ba4915def5",
+            "id": "ccc3de71c0a74ac4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All Pages/Getting started with Clobsidian 🚀.md",
+                "file": "All Pages/list of community plugins used to simulate clover app functionality.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "All Pages/Getting started with Clobsidian 🚀.md",
+                "file": "All Pages/list of community plugins used to simulate clover app functionality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All Pages/Getting started with Clobsidian 🚀.md"
+                "file": "All Pages/list of community plugins used to simulate clover app functionality.md"
               }
             }
           },
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "All Pages/Getting started with Clobsidian 🚀.md",
+                "file": "All Pages/list of community plugins used to simulate clover app functionality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,44 +192,43 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7ec4c8ba4915def5",
+  "active": "ccc3de71c0a74ac4",
   "lastOpenFiles": [
-    "All Pages/Getting started with Clobsidian 🚀.md",
-    "All Pages/assign anything on any pages to have it show up on your daily notes.md",
-    "All Pages/how to migrate your clover daily notes.md",
     "All Pages/surface feature cannot be replaced by Obsidian.md",
+    "All Pages/list of community plugins used to simulate clover app functionality.md",
+    "All Pages/how to migrate your clover daily notes.md",
+    "All Pages/enhance how to copy-paste a URL into text in Obsidian.md",
     "All Pages/create or jump to your daily notes.md",
-    "Tasks.md",
+    "All Pages/canceled status in checkboxes.md",
+    "All Pages/calendar plugin behavior is a bit different from native Clover calendar.md",
+    "All Pages/backstory on how I've moved over from Clover to Obsidian.md",
+    "All Pages/assign anything on any page to have it show up on your daily notes.md",
+    "All Pages/auto-assign scheduled date in todo-list created in daily notes.md",
+    "All Pages/Getting started with Clobsidian 🚀.md",
     "Inbox.md",
+    "Tasks.md",
+    "All Pages/alternatives apps have frustrated me in one way or another.md",
+    "Daily Notes/2023-09-09.md",
+    "_Attachments/tasks-plugin-option-scheduled-date.png",
+    "_Attachments/tasks-plugin-canceled-status.png",
+    "_Attachments/In-line-text-format-editor.png",
+    "README.md",
+    "Invalid date.md",
     "Template/daily-note_template.md",
     "All Pages/Untitled.md",
     "All Pages/Tasks.md",
     "All Pages/Tasks.md",
-    "All Pages/list of community plugins used to simulate clover app functionality.md",
-    "README.md",
-    "All Pages/backstory on how I've moved over from Clover to Obsidian.md",
-    "All Pages/calendar plugin behavior is a bit different from native Clover calendar.md",
-    "All Pages/alternatives apps have frustrated me in one way or another.md",
     "_Attachments/Task-edit-using-command-line.png",
-    "Daily Notes/2023-09-09.md",
     "_Attachments/mem-app-task-view-outside.png",
     "_Attachments/Mem-app-task-view-inside.png",
     "All Pages/Test.md",
     "Test.md",
     "Daily Notes/2023-09-10.md",
-    "enhance how to copy-paste a URL into text in Obsidian.md",
     "All Pages/use Git and Working Copy to sync Obsidian across macOS and iOS devices with version control.md",
     "_Attachments/date-input-natural-lang.png",
     "_Attachments/date-prompt.png",
     "_Attachments/open-daily-note-ribbon-menu.png",
     "_Attachments/open-daily-note-quick-command.png",
-    "_Attachments/open-daily-note-quick-command.png",
-    "_Attachments/move-calendar-pane-plugin.png",
-    "_Attachments/select-current-date-calendar-plugin.png",
-    "_Attachments/_Attachments.md",
-    "Template/{{title}}.md",
-    "Template/sub-page_template.md",
-    "Template/metadata_template.md",
     "All Pages",
     "Daily Notes",
     "Page Tree/Page Tree",
