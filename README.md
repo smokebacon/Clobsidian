@@ -16,12 +16,12 @@ Happy to have you here. Feel free to jump into any sections using the TOC (those
 
 ---
 
-## [Download v0.0.1 here](https://github.com/smokebacon/Clobsidian/archive/refs/tags/v.0.0.1.zip)
+## [Download here](https://github.com/smokebacon/Clobsidian/archive/refs/tags/v.0.0.2.zip)
 
 
 ## HOW TO INSTALL Clobsidian
 
-1. [Download this repo](https://github.com/smokebacon/Clobsidian/archive/refs/tags/v.0.0.1.zip)
+1. [Download this repo](https://github.com/smokebacon/Clobsidian/archive/refs/tags/v.0.0.2.zip)
 2. Unzip, rename to your preferred vault name, and open the entire folder with Obsidian
 3. When the prompt shows up about 3rd party plugins, click `Trust the developers`
 4. Use Windows Explorer or MacOS Finder to Manually copy-paste your clover .md file into this vault folder
@@ -34,7 +34,9 @@ I didn't know how to name this thing so I'll call this vault template Clobsidian
 
 ### 💬 Yeah Yeah, but I Heard Notion / Remnote / Roam / Capacities / Mem.ai / Loqseq / Reflect / Acreom / Superlist / Cron / Etc. Were Great Alternatives. Why Aren't You Recommending Them Instead?
 
+
 These alternative apps have frustrated me in one way or another. You might also find that there are some compromises you have to make when switching between different apps and workflow
+
 ---
 
 ## FAQs (WIP)
@@ -53,7 +55,7 @@ As I use this preset daily, just like you, on our journey, I remain committed to
 
 **Thank you for giving this a try.**
 
-If I've made your transition from Clover a bit easier or if you have any questions, please feel free to reach out on [GitHub projects](https://github.com/smokebacon/Clobsidian) or shoot me an email at [3jfwe7ty@duck.com](mailto:3jfwe7ty@duck.com)
+If I've made your transition from Clover a bit easier or if you have any questions, please feel free to file me [an issue](https://github.com/smokebacon/Clobsidian/issues) or shoot me an email at [3jfwe7ty@duck.com](mailto:3jfwe7ty@duck.com)
 
 <a href='https://ko-fi.com/5minbacon' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 
