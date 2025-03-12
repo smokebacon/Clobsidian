@@ -29,11 +29,6 @@ Here is the list of the plugin used to simulate #cloverapp feature:
 - [Highlighter](obsidian://show-plugin?id=highlightr-plugin)
 	- Simulate highlighting color customization using right click or hotkey (albeit harder to controls)
 
-- [Make.md](obsidian://show-plugin?id=make-md)
-	- Custom sort file pane to simulate what we have on clover sidebar
-	- In-line text format editor ![[In-line-text-format-editor.png]]
-	- 
-
 
 ---
  [^1]: Though [[calendar plugin behavior is a bit different from native Clover calendar]]

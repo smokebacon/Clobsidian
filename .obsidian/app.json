@@ -39,5 +39,5 @@
   "rightToLeft": false,
   "autoPairBrackets": true,
   "showInlineTitle": true,
-  "propertiesInDocument": "hidden"
+  "propertiesInDocument": "visible"
 }

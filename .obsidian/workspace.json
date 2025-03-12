@@ -13,11 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All Pages/list of community plugins used to simulate clover app functionality.md",
+                "file": "All Pages/Getting started with Clobsidian 🚀.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Getting started with Clobsidian 🚀"
             }
           }
         ]
@@ -35,21 +37,16 @@
         "dimension": 69.29274843330349,
         "children": [
           {
-            "id": "e6f3c149f49dfdb4",
-            "type": "leaf",
-            "state": {
-              "type": "mk-file-view",
-              "state": {}
-            }
-          },
-          {
             "id": "122d810fe82f011a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -64,7 +61,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -72,7 +71,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -87,7 +88,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -97,8 +100,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           }
         ]
@@ -122,10 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "All Pages/list of community plugins used to simulate clover app functionality.md",
+                "file": "All Pages/Getting started with Clobsidian 🚀.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Getting started with Clobsidian 🚀"
             }
           },
           {
@@ -134,8 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "All Pages/list of community plugins used to simulate clover app functionality.md"
-              }
+                "file": "All Pages/Getting started with Clobsidian 🚀.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Getting started with Clobsidian 🚀"
             }
           },
           {
@@ -144,8 +158,12 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
-              }
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
@@ -161,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "All Pages/list of community plugins used to simulate clover app functionality.md",
+                "file": "All Pages/Getting started with Clobsidian 🚀.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +187,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Getting started with Clobsidian 🚀"
             }
           }
         ]
@@ -187,34 +207,39 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": true,
       "command-palette:Open command palette": false,
+      "periodic-notes:Open today": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": true,
-      "periodic-notes:Open today": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "ccc3de71c0a74ac4",
   "lastOpenFiles": [
-    "All Pages/surface feature cannot be replaced by Obsidian.md",
+    "Inbox.md",
     "All Pages/list of community plugins used to simulate clover app functionality.md",
     "All Pages/how to migrate your clover daily notes.md",
+    "All Pages/Getting started with Clobsidian 🚀.md",
     "All Pages/enhance how to copy-paste a URL into text in Obsidian.md",
     "All Pages/create or jump to your daily notes.md",
     "All Pages/canceled status in checkboxes.md",
     "All Pages/calendar plugin behavior is a bit different from native Clover calendar.md",
     "All Pages/backstory on how I've moved over from Clover to Obsidian.md",
-    "All Pages/assign anything on any page to have it show up on your daily notes.md",
     "All Pages/auto-assign scheduled date in todo-list created in daily notes.md",
-    "All Pages/Getting started with Clobsidian 🚀.md",
-    "Inbox.md",
-    "Tasks.md",
+    "All Pages/assign anything on any page to have it show up on your daily notes.md",
     "All Pages/alternatives apps have frustrated me in one way or another.md",
+    "README.md",
+    "How to use daily notes.md",
+    "Template/daily-note_template.md",
     "Daily Notes/2023-09-09.md",
+    "Template/Template.md",
+    "Daily Notes/2024-11-06.md",
+    "Task list cheatsheet.md",
+    "_Attachments/dailly-notes-landing-screenshot.png",
+    "_Attachments/Pasted image 20250312092225.png",
+    "All Pages/surface feature cannot be replaced by Obsidian.md",
     "_Attachments/tasks-plugin-option-scheduled-date.png",
     "_Attachments/tasks-plugin-canceled-status.png",
     "_Attachments/In-line-text-format-editor.png",
-    "README.md",
     "Invalid date.md",
-    "Template/daily-note_template.md",
     "All Pages/Untitled.md",
     "All Pages/Tasks.md",
     "All Pages/Tasks.md",
@@ -223,12 +248,8 @@
     "_Attachments/Mem-app-task-view-inside.png",
     "All Pages/Test.md",
     "Test.md",
-    "Daily Notes/2023-09-10.md",
-    "All Pages/use Git and Working Copy to sync Obsidian across macOS and iOS devices with version control.md",
     "_Attachments/date-input-natural-lang.png",
     "_Attachments/date-prompt.png",
-    "_Attachments/open-daily-note-ribbon-menu.png",
-    "_Attachments/open-daily-note-quick-command.png",
     "All Pages",
     "Daily Notes",
     "Page Tree/Page Tree",
